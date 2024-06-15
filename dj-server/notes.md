@@ -1,3 +1,5 @@
+ref: https://www.youtube.com/watch?v=nGIg40xs9e4&t=103s&ab_channel=TechWithTim
+
 Start Django project:
   - django-admin startproject <project name>
 
